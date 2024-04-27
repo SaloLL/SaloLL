@@ -21,5 +21,5 @@
 <p>Desarrollar mis habilidades de programación, crear proyectos para resolver problemas tanto en el área de la programación como en la automatización.</p>
 <h2>¡No dudes en contactarme!</h2>
 <p><a href='https://www.linkedin.com/in/salomon-orozco-j-89aa59266/'>Linkedin</a></br>
-Correo: **SalomonOrozcoJaramillo@gmail.com**
+Correo: SalomonOrozcoJaramillo@gmail.com
 </p>
